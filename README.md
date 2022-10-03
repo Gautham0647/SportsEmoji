@@ -1,2 +1,0 @@
-# sportsemoji
-Created with CodeSandbox
